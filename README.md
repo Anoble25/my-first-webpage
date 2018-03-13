@@ -1,27 +1,27 @@
 # My-First-Webpage
 
-#### A webpage to practice html skills, March 12th 2018
+#### _A webpage to practice html skills, March 12th 2018_
 
-#### By **Alex Noble, Randy Weyer, and David Tumpowsky**
+#### By _**Alex Noble, Randy Weyer, and David Tumpowsky**_
 
 ## Description
 
-## A practice webpage showing photos of David's dog Zoe.
+#### _A practice webpage showing photos of David's dog Zoe._
 
 ## Setup
 
-### Open in a web browser
+#### _Open in a web browser._
 
 ## Known Bugs
 
-### No known bugs
+#### _No known bugs._
 
 ## Technologies Used
 
-### HTML
+#### _HTML_
 
 ## Legal
 
-### Copyright (c) 2018 Alex Noble, Randy Weyer, David Tumpowsky
+#### _Copyright (c) 2018 Alex Noble, Randy Weyer, David Tumpowsky_
 
-### This software is licensed under the MIT license.
+#### _This software is licensed under the MIT license._
