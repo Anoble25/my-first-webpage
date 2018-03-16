@@ -6,7 +6,7 @@
 
 ## Description
 
-#### _A practice webpage showing photos of David's dog Zoe._
+#### _A practice webpage_
 
 ## Setup
 
